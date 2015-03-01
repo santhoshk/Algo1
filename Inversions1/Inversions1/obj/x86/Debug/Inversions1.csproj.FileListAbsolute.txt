@@ -1,0 +1,15 @@
+D:\san\algorithms\algo-class-stanford\code\Inversions1\Inversions1\bin\Debug\Inversions1.exe
+D:\san\algorithms\algo-class-stanford\code\Inversions1\Inversions1\bin\Debug\Inversions1.pdb
+D:\san\algorithms\algo-class-stanford\code\Inversions1\Inversions1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\san\algorithms\algo-class-stanford\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.exe
+D:\san\algorithms\algo-class-stanford\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.pdb
+D:\san\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.exe
+D:\san\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.pdb
+D:\san\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\bin\Debug\Inversions1.exe
+D:\san\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\bin\Debug\Inversions1.pdb
+D:\san\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\san\algo\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.exe
+D:\san\algo\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\Inversions1.pdb
+D:\san\algo\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\bin\Debug\Inversions1.exe
+D:\san\algo\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\bin\Debug\Inversions1.pdb
+D:\san\algo\courses\AlgorithmsPart1TimRoughGarden\code\Inversions1\Inversions1\obj\x86\Debug\ResolveAssemblyReference.cache

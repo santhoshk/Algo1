@@ -1,0 +1,5 @@
+D:\san\algorithms\algo-class-stanford\code\QuickSort1\QuickSort1\bin\Debug\QuickSort1.exe
+D:\san\algorithms\algo-class-stanford\code\QuickSort1\QuickSort1\bin\Debug\QuickSort1.pdb
+D:\san\algorithms\algo-class-stanford\code\QuickSort1\QuickSort1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\san\algorithms\algo-class-stanford\code\QuickSort1\QuickSort1\obj\x86\Debug\QuickSort1.exe
+D:\san\algorithms\algo-class-stanford\code\QuickSort1\QuickSort1\obj\x86\Debug\QuickSort1.pdb

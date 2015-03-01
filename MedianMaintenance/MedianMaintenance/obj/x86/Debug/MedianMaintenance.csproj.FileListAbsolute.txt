@@ -1,0 +1,5 @@
+D:\san\algorithms\algo-class-stanford\code\MedianMaintenance\MedianMaintenance\bin\Debug\MedianMaintenance.exe
+D:\san\algorithms\algo-class-stanford\code\MedianMaintenance\MedianMaintenance\bin\Debug\MedianMaintenance.pdb
+D:\san\algorithms\algo-class-stanford\code\MedianMaintenance\MedianMaintenance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\san\algorithms\algo-class-stanford\code\MedianMaintenance\MedianMaintenance\obj\x86\Debug\MedianMaintenance.exe
+D:\san\algorithms\algo-class-stanford\code\MedianMaintenance\MedianMaintenance\obj\x86\Debug\MedianMaintenance.pdb
